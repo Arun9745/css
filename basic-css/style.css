@@ -1,11 +1,8 @@
-div{
-      background-color: rgb(41, 223, 132);
-      height: 100px;
-      width: 100px;
-      border-width: 2px ;
-      border-style: solid; 
-      text-align: center;
-      text-decoration: dashed;
-      border-radius: 50px;
-      padding-right: 100px;
+*{
+      padding: 0;
+      width: 0;
+}
+#navbar{
+      height: 60px;
+      background-color: #0f1111;
 }
